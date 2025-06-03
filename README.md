@@ -7,10 +7,8 @@ A simple Python project simulating a battle between two players using animal car
 1. Make sure you have Python installed.
 2. Run the script using:
 
-```bash
-python animal_battle.py
 
-🎮 How It Works
+###🎮 How It Works
 8 animals with different powers are randomly distributed to 2 players.
 
 Each round, players play one animal card.
@@ -19,7 +17,7 @@ The one with the higher power wins the round.
 
 After 4 rounds, the player with the higher score wins.
 
-🧠 Concepts Used
+##🧠 Concepts Used
 Object-Oriented Programming
 Classes and Objects
 
@@ -27,6 +25,6 @@ Lists and Loops
 
 Randomization
 
-📄 Author
+###📄 Author
 Project by RYM
 
